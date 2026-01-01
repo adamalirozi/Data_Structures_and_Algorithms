@@ -56,8 +56,8 @@ The repository is organized by data structures and algorithmic topics as outline
 ## 🛠️ Getting Started
 To run the solutions locally:
 
-- 1. Clone the repository: git clone https://github.com/adamalirozi/Data_Structures_and_Algorithms.git
+1. Clone the repository: git clone https://github.com/adamalirozi/Data_Structures_and_Algorithms.git
 
-- 2. Navigate to the specific day's directory
+2. Navigate to the specific day's directory
 
-- 3. Run the Python script: python solution.py
+3. Run the Python script: python solution.py
